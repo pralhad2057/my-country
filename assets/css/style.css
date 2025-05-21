@@ -1,0 +1,99 @@
+.country-name {
+    background-color: #66ff66;
+}
+
+.population {
+    background-color: blue;
+}
+
+.capital {
+    background-color: green;
+}
+
+.sightseeing {
+    background-color: yellow;
+}
+
+.everest {
+    background-color: red;
+}
+
+.pasupati {
+    background-color: #480ac2;
+}
+.language {
+    background-color: rgb(21, 167, 220);
+}
+
+.currency {
+    background-color: orange;
+}
+
+.famouse-food {
+    background-color: pink;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.box-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.box {
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 10px 5px 5px gray;
+    border: 1px solid #ccc;
+}
+
+.box img {
+    height: 300px;
+    width:100%;
+    object-fit: cover;
+    display: block;
+}
+
+.box-left {
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.box-right {
+    width: 35%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+}
+
+.m-10{
+    margin: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.my-10 {
+    margin: 10px 0;
+}
+
+.mx-10 {
+    margin:0 10px;
+}
