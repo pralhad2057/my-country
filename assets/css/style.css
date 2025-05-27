@@ -21,6 +21,7 @@
 .pasupati {
     background-color: #480ac2;
 }
+
 .language {
     background-color: rgb(21, 167, 220);
 }
@@ -55,7 +56,7 @@ img {
 
 .box img {
     height: 300px;
-    width:100%;
+    width: 100%;
     object-fit: cover;
     display: block;
 }
@@ -73,11 +74,12 @@ img {
     text-align: center;
     box-sizing: border-box;
 }
-header{
+
+header {
     text-align: center;
 }
 
-.m-10{
+.m-10 {
     margin: 10px;
     margin: 10px 10px 10px 10px;
 }
@@ -95,5 +97,5 @@ header{
 }
 
 .mx-10 {
-    margin:0 10px;
+    margin: 0 10px;
 }
